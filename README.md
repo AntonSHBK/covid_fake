@@ -2,7 +2,7 @@
 
 This project aims to identify and analyze misinformation in social media posts related to COVID-19. By leveraging advanced natural language processing (NLP) techniques, it classifies posts as either factual or fake, helping to combat the spread of misinformation.
 
-**Check [article](docs\article.md).**
+**Check [article](docs/article.md).**
 
 ## Features
 - **VaccineFakeClassifier**: A model based on RoBERTa for detecting fake news.
