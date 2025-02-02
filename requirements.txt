@@ -1,20 +1,21 @@
-# Основные библиотеки для работы с NLP
+# Main libraries for working with NLP
 transformers==4.32.0
 datasets==2.15.1
 
-# Библиотека для вычислений с массивами
+# Library for array computations
 numpy==1.24.3
 
-# Библиотеки для машинного обучения и метрик
+# Libraries for machine learning and metrics
 scikit-learn==1.3.1
 umap-learn==0.5.7
 
-# Визуализация
+# Visualization
 matplotlib==3.7.1
+plotly
 
-# Обработка текстовых данных
+# Text data processing
 pandas==2.0.3
 
-# PyTorch с поддержкой GPU (зависит от версии CUDA)
+# PyTorch with GPU support (depends on CUDA version)
 torch==2.0.1
 # torch==2.0.1+cu118
