@@ -13,8 +13,14 @@ umap-learn==0.5.7
 matplotlib==3.7.1
 plotly
 
+
 # Text data processing
 pandas==2.0.3
+
+# NLP
+tqdm
+ipywidgets
+gensim
 
 # PyTorch with GPU support (depends on CUDA version)
 torch==2.0.1
