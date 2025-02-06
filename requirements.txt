@@ -21,6 +21,7 @@ pandas==2.0.3
 tqdm
 ipywidgets
 gensim
+wordcloud
 
 # PyTorch with GPU support (depends on CUDA version)
 torch==2.0.1
